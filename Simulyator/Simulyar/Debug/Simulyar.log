@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+c:\users\nastya\source\repos\simulyar\simulyar\mystruct.h(9): warning C4091: extern : пропускается слева от "DATA", когда ни одна переменная не объявлена
+c:\users\nastya\source\repos\simulyar\simulyar\mystruct.h(19): warning C4091: extern : пропускается слева от "head", когда ни одна переменная не объявлена
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(628): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(644): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(645): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(646): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(647): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(648): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(649): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(650): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(651): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(663): warning C4244: +=: преобразование "float" в "unsigned __int64", возможна потеря данных
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(501): warning C4101: userInput: неиспользованная локальная переменная
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(498): warning C4101: he: неиспользованная локальная переменная
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(629): warning C4101: pChar: неиспользованная локальная переменная
+c:\users\nastya\source\repos\simulyar\simulyar\myform.h(644): warning C4700: использована неинициализированная локальная переменная "t"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Simulyar.vcxproj -> C:\Users\Nastya\source\repos\Simulyar\Debug\Simulyar.exe

@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(677): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(692): error C2276: &: недопустимая операция с выражением привязанной функции-члена
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(692): error C2660: SetTimer: функция не принимает 3 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(6898): note:  см. объявление "SetTimer"
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(767): error C2660: SetTimer: функция не принимает 3 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(6898): note:  см. объявление "SetTimer"
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(780): warning C4441: соглашение вызова "__cdecl " игнорируется; вместо него используется "__clrcall "
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(784): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(785): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(786): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(787): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(788): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(789): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(790): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(791): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\master\el-station\simulyator\simulyar\myform.h(800): warning C4244: +=: преобразование "float" в "unsigned __int64", возможна потеря данных

@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(985): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(633): warning C4101: t: неиспользованная локальная переменная
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(987): warning C4101: pChar: неиспользованная локальная переменная
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(1043): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(1044): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(1045): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(1046): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(1047): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(1048): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(1049): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(1050): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\source\repos\develop\el-station\simulyator\simulyar\myform.h(1057): warning C4244: +=: преобразование "float" в "unsigned __int64", возможна потеря данных
+  Simulyar.vcxproj -> C:\Users\Nastya\source\repos\Develop\el-station\Simulyator\x64\Release\Simulyar.exe
